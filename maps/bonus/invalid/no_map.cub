@@ -1,0 +1,12 @@
+RIVER imgs/blood_panner.xpm
+ROOF imgs/floor1.xpm
+RAIN
+
+
+NO  imgs/skullwall1.xpm
+SO  imgs/manor1.xpm
+EA  imgs/manor2.xpm
+WE  imgs/manor3.xpm
+
+F imgs/skullwall1.xpm
+C 69,69,69

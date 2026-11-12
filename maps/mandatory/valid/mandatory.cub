@@ -1,0 +1,14 @@
+WE imgs/wall3.xpm
+EA  imgs/wall1.xpm
+SO imgs/wall0.xpm
+NO  imgs/wall2.xpm
+
+F    50,195,62
+C    0,255,255
+
+11111111
+10000001
+10000001
+100N0001
+10000001
+11111111
